@@ -1,0 +1,37 @@
+body {
+    background-color: aqua;
+}
+
+header {
+    
+    background-color: antiquewhite;
+           
+    }
+
+nav {
+   
+    background-color: rgb(0, 0, 0);
+    display:inline-block;
+    background-color: antiquewhite;
+    width: 40%;   
+        
+    }
+ul {
+    margin: 5px;
+    
+}    
+
+.menu {
+    display: inline-block;
+    margin-right: 10px;
+    
+}
+
+img {
+    
+    
+    margin:auto;
+    height: 300px;
+    width: 200px;
+   
+}
